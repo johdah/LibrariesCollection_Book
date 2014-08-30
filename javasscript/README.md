@@ -1,5 +1,22 @@
 # Javascript
 
+## Debugging
+
+### deb.js
+Minimalistic JavaScript library for debugging in the browser
+
+```
+https://github.com/krasimir/deb.js
+
+bower install deb.js
+```
+* Works on functional level.
+* Groups your console.log statements and place them in a proper context.
+* Displays stack traces, passed arguments and execution time.
+
+Tutorials:
+* http://code.tutsplus.com/tutorials/debjs-the-tiniest-debugger-in-the-world--cms-21565
+
 ## Game Engine
 
 ### PlayCanvas
