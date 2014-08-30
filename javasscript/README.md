@@ -26,6 +26,40 @@ PlayCanvas is the world’s easiest to use WebGL Game Engine. It’s free, it’
 https://playcanvas.com
 ```
 
+## MV* frameworks
+**http://todomvc.com/** - Was created to help you decide on which solution to use
+
+**http://www.airpair.com/js/javascript-framework-comparison**
+
+### AngularJS
+HTML enhanced for web apps
+
+```
+https://angularjs.org/
+```
+
+### Backbone.js
+Give your JS App some Backbone with Models, Views, Collections, and Events
+
+```
+http://backbonejs.org/
+```
+
+### Ember.js
+A JavaScript framework for creating ambitious web applications
+```
+http://emberjs.com/
+```
+
+### Others
+* CanJS
+
+* KnockoutJS
+
+* Polymer
+
+* React
+
 ## Utils
 
 ### Lo-Dash
