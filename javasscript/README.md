@@ -38,7 +38,6 @@ HTML enhanced for web apps
 ### Backbone.js
 Give your JS App some Backbone with Models, Views, Collections, and Events
 
-
 *http://backbonejs.org/*
 
 ### Ember.js
@@ -54,6 +53,11 @@ A JavaScript framework for creating ambitious web applications
 * React
 
 ## Utils
+
+### Async.js
+Async utilities for node and the browser
+
+*https://github.com/caolan/async*
 
 ### Lo-Dash
 A utility library delivering consistency, customization, performance, & extras.
