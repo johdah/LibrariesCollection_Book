@@ -32,6 +32,14 @@ PlayCanvas is the world’s easiest to use WebGL Game Engine. It’s free, it’
 
 *https://playcanvas.com*
 
+## Maps & Location
+
+### Odyssey.js
+The odyssey.js library is being developed to help journalists, bloggers, and other people on the web publish stories that combine narratives with maps and map interactions. The library is open source and freely available to use in your projects. It is initially being built to work with most modern browsers.
+
+*https://github.com/cartodb/odyssey.js/*
+*http://cartodb.github.io/odyssey.js/*
+
 ## MV* frameworks
 **http://todomvc.com/** - Was created to help you decide on which solution to use
 
@@ -58,6 +66,13 @@ A JavaScript framework for creating ambitious web applications
 * KnockoutJS
 * Polymer
 * React
+
+## Security
+
+### CryptoJS
+CryptoJS is a growing collection of standard and secure cryptographic algorithms implemented in JavaScript using best practices and patterns. They are fast, and they have a consistent and simple interface.
+
+*https://code.google.com/p/crypto-js/*
 
 ## Utils
 
