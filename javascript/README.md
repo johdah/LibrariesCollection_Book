@@ -34,10 +34,20 @@ PlayCanvas is the world’s easiest to use WebGL Game Engine. It’s free, it’
 
 ## Maps & Location
 
+### Leaflet.js
+Leaflet is a modern open-source JavaScript library for mobile-friendly interactive maps. It is developed by Vladimir Agafonkin with a team of dedicated contributors. Weighing just about 33 KB of JS, it has all the features most developers ever need for online maps.
+
+Leaflet is designed with simplicity, performance and usability in mind. It works efficiently across all major desktop and mobile platforms out of the box, taking advantage of HTML5 and CSS3 on modern browsers while still being accessible on older ones. It can be extended with a huge amount of plugins, has a beautiful, easy to use and well-documented API and a simple, readable source code that is a joy to contribute to.
+
+*http://leafletjs.com/*
+
+*https://github.com/Leaflet/Leaflet*
+
 ### Odyssey.js
 The odyssey.js library is being developed to help journalists, bloggers, and other people on the web publish stories that combine narratives with maps and map interactions. The library is open source and freely available to use in your projects. It is initially being built to work with most modern browsers.
 
 *https://github.com/cartodb/odyssey.js/*
+
 *http://cartodb.github.io/odyssey.js/*
 
 ## MV* frameworks
