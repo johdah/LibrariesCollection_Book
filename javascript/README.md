@@ -120,3 +120,10 @@ Supported graphs:
 * Real-time Heatmap
 * Real-time Line
 * Scatter
+
+### Timesheet.js
+Visualize your data and events with sexy HTML5 and CSS3. Create simple time sheets with sneaky JavaScript. Style them with CSS and have mobile fun as well â¦
+
+*http://semu.github.io/timesheet.js/*
+
+*https://github.com/semu/timesheet.js*
